@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-goeya
+hdc2m
