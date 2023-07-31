@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-some pending review requests content
+some original content
