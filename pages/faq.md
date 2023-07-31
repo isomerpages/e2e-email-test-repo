@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-some asdfasdfasdf content
+some original content
