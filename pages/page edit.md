@@ -2,4 +2,4 @@
 title: page edit
 permalink: /permalink/
 ---
-blahblah
+some asdfasdfasdf content
