@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-some reviewer merge review request content
+some reviewer unapprove review request content
