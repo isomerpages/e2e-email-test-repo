@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-rx50ks
+some original content
