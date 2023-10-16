@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-ywhmck
+some original content
