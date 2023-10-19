@@ -2,4 +2,4 @@
 title: FAQ
 permalink: /faq/
 ---
-frpb3
+some original content
